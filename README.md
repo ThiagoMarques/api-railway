@@ -2,7 +2,7 @@
 
 Este é um projeto de API REST criado com Spring Boot, com documentação Swagger integrada.
 
-![api-rest-railway](https://github.com/ThiagoMarques/api-railway/assets/5391998/81127f76-3cf0-48eb-a014-2e48a11c6f64)
+![api-rest-railway](https://github.com/ThiagoMarques/api-railway/assets/5391998/b83ab751-72a6-4270-8e67-6eeda7499c34)
 
 Railway: https://web-production-af035.up.railway.app/swagger-ui/index.html
 
