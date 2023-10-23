@@ -1,5 +1,7 @@
 package dio.apirestsantander.service;
 
-public interface UserService {
-    
+import dio.apirestsantander.domain.model.User;
+
+public interface UserService extends CrudService<Long, User> {
+
 }

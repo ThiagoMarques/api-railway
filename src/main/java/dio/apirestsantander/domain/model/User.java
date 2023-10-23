@@ -11,11 +11,11 @@ import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 
-@Entity(name = "tb_user") //JPA
+@Entity(name = "tb_user")
 public class User {
     
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY) //Gera automaticamente
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     private String name;
