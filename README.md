@@ -8,8 +8,9 @@ Este é um projeto de API REST criado com Spring Boot, com documentação Swagge
 
 A API possui os seguintes endpoints:
 
-GET /users: Retorna uma lista de usuários.
-GET /users/{id}: Retorna um usuário com o ID especificado.
-POST /users: Cria um novo usuário.
-PUT /users/{id}: Atualiza um usuário existente.
-DELETE /users/{id}: Exclui um usuário.
+- `GET /users`: Retorna uma lista de usuários.
+- `GET /users/{id}`: Retorna um usuário com o ID especificado.
+- `POST /users`: Cria um novo usuário.
+- `PUT /users/{id}`: Atualiza um usuário existente.
+- `DELETE /users/{id}`: Exclui um usuário.
+
